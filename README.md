@@ -30,3 +30,5 @@ Hey everyone, I am a second year Software Engineering student at Univeristy of W
  #### Thanks For Visiting and Feel Free to Connect:
  - [LinkedIn](https://www.linkedin.com/in/farazkh80/)
  - [Twitter](https://twitter.com/farazkh80)
+
+##### Card Desgin By https://github.com/anuraghazra/github-readme-stats
