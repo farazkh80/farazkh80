@@ -19,11 +19,7 @@ Hey everyone, I am a second year Software Engineering student at Univeristy of W
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=farazkh80&include_all_commits=true&count_private=true&show_icons=true&theme=radical&title_color='#42ddf5'&text_color='#55de4e'&icon_color='#c45a73'" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazkh80&layout=compact&&langs_count=8&hide=SCSS,PowerShell&theme=radical&title_color='#42ddf5'&text_color='#55de4e'&icon_color='#c45a73')](https://github.com/farazkh80/github-readme-stats" />
-</a>
- 
+</a> 
  
  ---
  
