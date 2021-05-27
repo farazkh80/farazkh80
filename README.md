@@ -12,7 +12,7 @@ Hey everyone, I am a second year Software Engineering student at Univeristy of W
 
 #### What I Currently Work On:
 - Working on cloud-conncted vehicle ECUs at [Ford Motor of Canada](https://www.ford.ca/) ☁️
-- Compeleting *Machine Learning with Python* course as a part of [IBM AI Engineering Certificate](https://www.coursera.org/professional-certificates/ai-engineer) ❗
+- Compeleting [IBM AI Engineering Certificate](https://www.coursera.org/professional-certificates/ai-engineer) ❗
 - Improving solar panel's functionality at [Midnight Sun Solar Car Racing team](https://www.uwmidsun.com/) 🌞🏎️
 
 ---
