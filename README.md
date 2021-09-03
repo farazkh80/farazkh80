@@ -1,19 +1,21 @@
 ### Faraz Khoubsirat
 
-Hey everyone, I am a second year Software Engineering student at Univeristy of Waterloo who is passionate about creating problem-solver projects in the fields of **Software Developement** and **Artificial Inteligence**.
+Hi there, I am Faraz, a second year Software Engineering student at Univeristy of Waterloo.
+
+I am passionate about creating problem-solver projects in the fields of **Software Developement** and **Machine Learning**.
 
 #### Some Facts About Me:
-- Second year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🏫
-- Software Developer In Test at [Ford Motor of Canada](https://www.ford.ca/) 🚗
+- Second year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓
+- Previous Software Developer at [Ford Motor of Canada](https://www.ford.ca/) with a focus on cloud-connected automotive modules 🚗
 - Firmware Developer at [Midnight Sun Solar Car Racing team](https://www.uwmidsun.com/)🏎️
 - Machine Learning enthusiast 💻
 - Occasinal trader 📈
 
 
 #### What I Currently Work On:
-- Working on cloud-conncted vehicle ECUs at [Ford Motor of Canada](https://www.ford.ca/) ☁️
-- Compeleting [IBM AI Engineering Certificate](https://www.coursera.org/professional-certificates/ai-engineer) ❗
-- Improving Motor Controllers' functionality at [Midnight Sun Solar Car Racing team](https://www.uwmidsun.com/) 🌞🏎️
+- Completing first term of my second year at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓
+- Fine-tunnine a [T5 tranformer-based summarization model](https://github.com/farazkh80/SearchEngine) with more than 770 million paramaters
+- Working on battery packs at [Midnight Sun Solar Car Racing team](https://www.uwmidsun.com/) 🌞🏎️
 
 ---
 
