@@ -6,16 +6,11 @@ I am passionate about creating problem-solver projects in the fields of **Softwa
 
 #### Some Facts About Me:
 - Second year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓
-- Previous Software Developer at [Ford Motor of Canada](https://www.ford.ca/) with a focus on cloud-connected automotive modules 🚗
+- Incoming Computer Vision Software Engineer at [Airy3d](https://www.airy3d.com/)🤖👁
 - Firmware Developer at [Midnight Sun Solar Car Racing team](https://www.uwmidsun.com/)🏎️
-- Machine Learning enthusiast 💻
+- Previous Software Developer at [Ford Motor of Canada](https://www.ford.ca/) with a focus on cloud-connected automotive modules 🚗
+- Machine Learning and Aritficial Inteligence enthusiast 💻
 - Occasinal trader 📈
-
-
-#### What I Currently Work On:
-- Completing first term of my second year at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓
-- Fine-tunnine a [T5 tranformer-based summarization model](https://github.com/farazkh80/SearchEngine) with more than 770 million paramaters
-- Working on battery packs at [Midnight Sun Solar Car Racing team](https://www.uwmidsun.com/) 🌞🏎️
 
 ---
 
