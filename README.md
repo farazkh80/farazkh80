@@ -4,9 +4,10 @@ Hi there, I am Faraz, a third year Software Engineering student at Univeristy of
 
 #### Some Facts About Me:
 - Third year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓
-- Current Machine Learning Intern at [Cohere AI](https://cohere.ai/) 🗣
-- Fromer Computer Vision Software Engineer at [Airy3d](https://www.airy3d.com/) 👁
-- Previous Software Developer at [Ford Motor of Canada](https://www.ford.ca/) 🚗
+- Former
+  - Machine Learning Intern at [Cohere AI](https://cohere.ai/) 🗣
+  - Computer Vision Software Engineer at [Airy3d](https://www.airy3d.com/) 👁
+  - Software Developer at [Ford Motor of Canada](https://www.ford.ca/) 🚗
 - [Hack the North 2021 Winner](https://devpost.com/software/diva)🏆
 - Machine Learning and Aritficial Inteligence enthusiast 💻
 - [Lex Firdman Podcast](https://www.youtube.com/c/lexfridman) Follower 🎧
