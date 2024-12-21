@@ -5,8 +5,9 @@ Hi there, I am Faraz, a senior Software Engineering student at Univeristy of Wat
 #### Some Facts About Me:
 - Fourh year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓 and Software Engineering Intern at [NVidia TensorRT](https://developer.nvidia.com/tensorrt-getting-started#:~:text=NVIDIA%C2%AE%20TensorRT%E2%84%A2%20is,high%20throughput%20for%20production%20applications.)
 - Former
+  - Deep Learning Intern at [NVidia TensorRT](https://developer.nvidia.com/tensorrt) 👁
   - Machine Learning Intern at [Cohere AI](https://cohere.ai/) 🗣
-  - Computer Vision Software Engineer at [Airy3d](https://www.airy3d.com/) 👁
+  - Computer Vision Software Engineer at [Airy3d](https://www.airy3d.com/) 🤖
   - Software Developer at [Ford Motor of Canada](https://www.ford.ca/) 🚗
 - [Hack the North 2021 Winner](https://devpost.com/software/diva)🏆
 - Machine Learning and Aritficial Inteligence enthusiast 💻
