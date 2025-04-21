@@ -1,17 +1,6 @@
-### Faraz Khoubsirat
+### Hi, I’m Faraz.
 
-Hi there, I am Faraz, a senior Software Engineering student at Univeristy of Waterloo. My main interests in tech are mainly in the realm of machine learing research, alghorthmic optimization and data-driven modelling.
-
-#### Some Facts About Me:
-- Fourh year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓 
-- Former
-  - Deep Learning Intern at [NVidia TensorRT](https://developer.nvidia.com/tensorrt) 👁
-  - Machine Learning Intern at [Cohere AI](https://cohere.ai/) 🗣
-  - Computer Vision Software Engineer at [Airy3d](https://www.airy3d.com/) 🤖
-  - Software Developer at [Ford Motor of Canada](https://www.ford.ca/) 🚗
-- [Hack the North 2021 Winner](https://devpost.com/software/diva)🏆
-- Machine Learning and Aritficial Inteligence enthusiast 💻
-- [Lex Firdman Podcast](https://www.youtube.com/c/lexfridman) Follower 🎧
+I completed my Software Engineering degree at the University of Waterloo. I spent two years at Cohere AI working on model inference optimization and post‑training/finetuning. I’m now on the TensorRT team at NVIDIA.
 
 ---
 
@@ -23,6 +12,6 @@ Hi there, I am Faraz, a senior Software Engineering student at Univeristy of Wat
  
  #### Thanks For Visiting and Feel Free to Connect:
  - [LinkedIn](https://www.linkedin.com/in/farazkh80/)
- - [Twitter](https://twitter.com/farazkh80)
+ - [Twitter](https://twitter.com/farazdotai)
 
 ##### Card Desgin By https://github.com/anuraghazra/github-readme-stats
