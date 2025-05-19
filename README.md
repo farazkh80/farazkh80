@@ -1,6 +1,6 @@
 ### Hi, I’m Faraz.
 
-I completed my Software Engineering degree at the University of Waterloo. I spent two years at Cohere AI working on model inference optimization and post‑training/finetuning. I’m now on the TensorRT team at NVIDIA.
+I completed my Software Engineering degree at the University of Waterloo. I spent two years at Cohere AI working on model inference optimization and post‑training/finetuning. Now, I work on TensorRT-LLM at NVIDIA.
 
 ---
 
